@@ -10,6 +10,7 @@ RU: Симулятор погоды. Моделируем погоду по дн
 
 Выполните моделирование в «реальном» времени с визуализацией данных.
 
+____________________________________________________________________________________________________________________
 
 ENG: Weather simulator. We simulate the weather by day. Let state 1 - clear, 2 - cloudy, 3 - cloudy. Time unit = 1 day. Let us set the transition intensities, for example, by the following matrix of infinitesimal coefficients:
 
